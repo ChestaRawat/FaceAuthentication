@@ -76,7 +76,7 @@ Upload two face images and the API will return:
 
 ```json
 {
-  "verification_result": "same person",
+  "verification_result":“same person” or “different person”
   "similarity_score": 0.7505,
   "bounding_box_image1": [],
   "bounding_box_image2": []
